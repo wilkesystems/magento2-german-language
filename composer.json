@@ -1,0 +1,19 @@
+{
+    "name": "wilkesystems/magento2-german-language",
+    "description": "Magento2 German Language Pack",
+    "license": [
+        "OSL-3.0"
+    ],
+    "support": {
+          "email": "maintainer@wilke.systems"
+    },
+    "require": {
+        "magento/framework": "^100.0.0 || ^101.0.0"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
